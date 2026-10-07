@@ -1,0 +1,6 @@
+{
+  "name": "Ruby & Rue Makeup Co.",
+  "description": "Editorial beauty & makeup artistry studio offering everyday glam, bridal makeup, event artistry, one-on-one lessons, and curated beauty essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
